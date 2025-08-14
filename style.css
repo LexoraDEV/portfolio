@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.project {
+  background-color: lightgray;
+  margin: 10px;
+  padding: 10px;
+}
+
