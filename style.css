@@ -1,18 +1,21 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'UnifrakturCook', cursive;
+  background-color:black;
+  color:white;
   margin: 0;
 }
 
 header {
-  background-color: blue;
-  color: white;
+  background-color: lightgray;
+  color: darkgray;
   padding: 20px;
   text-align: center;
 }
 
 .project {
-  background-color: lightgray;
+  background-color: black;
   margin: 10px;
   padding: 10px;
 }
+
 
